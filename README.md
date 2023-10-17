@@ -20,7 +20,7 @@ This project is a basic real-time chat application that allows users to join a c
 - Clean and simple design.
 
 ## Demo
-![Screenshot 2023-10-17 at 6.47.20 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.47.20%20PM.png)
-![Screenshot 2023-10-17 at 6.46.13 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.46.13%20PM.png)
-![Screenshot 2023-10-17 at 6.29.17 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.29.17%20PM.png)
-![Screenshot 2023-10-17 at 6.27.24 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.27.24%20PM.png)
+![Local Image](resources/demo_1.png)
+![Local Image](resources/demo_2.png)
+![Local Image](resources/demo_3.png)
+![Local Image](resources/demo_4.png)
