@@ -6,6 +6,7 @@ A simple real-time chat application built using HTML, JavaScript, and a Go-based
 
 - [Overview](#overview)
 - [Features](#features)
+- [Demo](#demo)
 
 ## Overview
 
@@ -17,3 +18,9 @@ This project is a basic real-time chat application that allows users to join a c
 - Real-time messaging with WebSocket communication.
 - Messages include the user's name.
 - Clean and simple design.
+
+## Demo
+![Screenshot 2023-10-17 at 6.47.20 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.47.20%20PM.png)
+![Screenshot 2023-10-17 at 6.46.13 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.46.13%20PM.png)
+![Screenshot 2023-10-17 at 6.29.17 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.29.17%20PM.png)
+![Screenshot 2023-10-17 at 6.27.24 PM.png](..%2F..%2F..%2FDownloads%2FScreenshots%2FScreenshot%202023-10-17%20at%206.27.24%20PM.png)
