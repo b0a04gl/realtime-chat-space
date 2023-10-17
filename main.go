@@ -29,7 +29,7 @@ type Message struct {
 
 func main() {
 	fs := http.FileServer(http.Dir("static"))
-http.Handle("/", fs)
+	http.Handle("/", fs)
 	http.HandleFunc("/ws", handleConnections)
 		go handleMessages()
 	log.Println("Server started on :8080")
